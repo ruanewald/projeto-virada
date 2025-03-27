@@ -1,0 +1,5 @@
+Flask
+psycopg2
+python-decouple
+
+''' Lista de Pacotes que precisa para rodar corretamente'''
